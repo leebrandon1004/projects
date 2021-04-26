@@ -1,8 +1,0 @@
-<?xml version = '1.0' encoding = 'UTF-8'?>
-<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="CNIT272ERD" id="B5B39B3C-7C0B-5BD4-89D0-4D4B35856636" version="3.5">
-<createdBy>lee3118</createdBy>
-<createdTime>2020-01-13 21:03:08 UTC</createdTime>
-<ownerDesignName>CNIT272ERD</ownerDesignName>
-<capitalNames>false</capitalNames>
-<designId>B5B39B3C-7C0B-5BD4-89D0-4D4B35856636</designId>
-</OSDM_Design>
