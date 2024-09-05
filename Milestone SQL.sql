@@ -1,7 +1,7 @@
 /*
 Milestone 3 Project
 Library Operations Database
-Brandon Lee Questions 3, 8, 9, 10
+Brandon Lee
 
 */
 
